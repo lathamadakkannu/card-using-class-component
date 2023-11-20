@@ -1,0 +1,35 @@
+
+@media(min-width:320px){
+
+    .card-col{
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+    }
+}
+
+
+@media(min-width:660px){
+
+    .card-col{
+        width: 50%;
+        text-align: center;
+        padding: 20px;
+    }
+}
+
+
+
+@media(min-width:1000px){
+
+
+.card{
+    height: 35vh;
+}
+.card-col{
+    width: 33.33%;
+    text-align: center;
+    padding: 20px;
+}
+
+}
